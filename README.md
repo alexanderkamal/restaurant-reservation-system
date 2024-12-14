@@ -1,7 +1,7 @@
 # restaurant-reservation-system
 a simulation for a real-life restaurant reservation system. complete OOP System with GUI and a UML Class Diagram
 
-CONTACT us for the full code
+CONTACT US for the full code
 
 
 
